@@ -73,7 +73,7 @@ export default function Main() {
               {!id ? (
                 <>
                   <p className="font-semibold" align="center">"
-                    <b> Sempre é um "eu te amo", mas dessa vez é um "ylylylimtylylyliwtytytytint"...
+                    <b> Sempre é um "eu te amo", mas dessa vez é um "ylylylimtylylyliwtytytytint"...</b>
                   </p>
                     
                   <img src={health} alt="" width={200} />
