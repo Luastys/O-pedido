@@ -73,14 +73,14 @@ export default function Main() {
               {!id ? (
                 <>
                   <p className="font-semibold" align="center">"
-                    <b>Meu amor por você é igual um círculo, 360º"</b> - Danilo
+                    <b>Sempre é um "eu te amo", mas dessa vez é um "ylylylimtylylyliwtytytytint"..."</b> - Lucas
                   </p>
 
-                  <p align="center">Te amo Bel, minha princesinha gatinha</p>
+                  <p align="center">Te amo Amanda, quero você em todos os meus sonhos</p>
 
                   <img src={health} alt="" width={200} />
 
-                  <p className="mt-10">Made with 🤍 by <a className="font-semibold text-red-300" href="https://www.instagram.com/danilo.samw/">@danilo.samw</a></p>
+                  <p className="mt-10">Made with 🤍 by <a className="font-semibold text-red-300" href="https://www.instagram.com/p/CmPUroGp7ns/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==">@Luastys_Lucastys</a></p>
                 </>
               ) : (
                 <>
@@ -89,7 +89,7 @@ export default function Main() {
                   </p>
                   <img src={health} alt="" width={200} />
 
-                  <p className="mt-10">Made with 🤍 by <a className="font-semibold text-red-300" href="https://www.instagram.com/danilo.samw/">@danilo.samw</a></p>
+                  <p className="mt-10">Made with 🤍 by <a className="font-semibold text-red-300" href="https://www.instagram.com/p/CmPUroGp7ns/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==">@Luastys_Luastys</a></p>
                 </>
               )}
             </div>
