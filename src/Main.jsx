@@ -73,11 +73,9 @@ export default function Main() {
               {!id ? (
                 <>
                   <p className="font-semibold" align="center">"
-                    <b>Sempre é um "eu te amo", mas dessa vez é um "ylylylimtylylyliwtytytytint"..."</b> - Lucas
+                    <b> Sempre é um "eu te amo", mas dessa vez é um "ylylylimtylylyliwtytytytint"...
                   </p>
-
-                  <p align="center">Te amo Amanda, quero você em todos os meus sonhos</p>
-
+                    
                   <img src={health} alt="" width={200} />
 
                   <p className="mt-10">Made with 🤍 by <a className="font-semibold text-red-300" href="https://www.instagram.com/p/CmPUroGp7ns/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==">@Luastys_Lucastys</a></p>
